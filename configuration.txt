@@ -1,0 +1,3 @@
+notfound: .*HTTP\s404.*
+and: \band\b
+or: \bor\b
